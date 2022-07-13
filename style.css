@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 100vw;
+    height: 250vh;
+    background-color: black;
+}
+#div1{
+    width: 100vw;
+    height: 50vh;
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+
+}
+#div11{
+    width: 40vw;
+    height: 50vh;
+    background-color: blueviolet;
+    text-align: center;
+}
+#div111{
+    padding-top: 80px;
+}
+
+#div12{
+    width: 60vw;
+    height: 50vh;
+    background-color: brown;
+    
+}
+#backGroundiImage{
+    width: 40vw;
+    height: 40vh;
+    padding-left: 100px;
+    padding-top: 40px;
+    
+}
+#div21{
+    width: 100vw;
+    height: 50vh;
+    background-color: darkgreen;
+    display: flex;
+    flex-direction: column;
+}
+#OurWork{
+    width: 100vw;
+    height: 15vh;
+    text-align: center;
+}
+#firstImage{
+    width: 50vw;
+    height: 35vh;
+    padding-left: 23%;
+    margin-bottom: 50px;
+    
+}
+#div31{
+    width: 100vw;
+    height: 50vh;
+    background-color: darkgray;
+    display: flex;
+    flex-direction: column;
+}
+#secondImage{
+    width: 50vw;
+    height: 40vh;
+    padding-left: 23%;
+    margin-top: 30px;
+    
+
+}
+#firstImageName{
+    width: 100vw;
+    height: 10vh;
+    text-align: center;
+    font-size: xx-large;
+}
+#div41{
+    width: 100vw;
+    height: 50vh;
+    background-color: darkred;
+    display: flex;
+    flex-direction: column;
+}
+#thirdImage{
+    width: 50vw;
+    height: 40vh;
+    padding-left: 23%;
+    margin-top: 30px;
+}
+#secondImageName{
+    width: 100vw;
+    height: 10vh;
+    text-align: center;
+    font-size: xx-large;
+}
+#div51{
+    width: 100vw;
+    height: 50vh;
+    background-color: hotpink;
+    display: flex;
+    flex-direction: column;
+}
+
+#fourthImage{
+    width: 50vw;
+    height: 40vh;
+    padding-left: 23%;
+    margin-top: 30px;
+}
+#thirdImageName{
+    width: 100vw;
+    height: 10vh;
+    text-align: center;
+    font-size: xx-large;
+}
+
